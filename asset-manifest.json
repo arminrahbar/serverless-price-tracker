@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/serverless-price-tracker/static/css/main.205ec973.css",
-    "main.js": "/serverless-price-tracker/static/js/main.70732c3b.js",
+    "main.css": "/serverless-price-tracker/static/css/main.9233ea16.css",
+    "main.js": "/serverless-price-tracker/static/js/main.0fea8a17.js",
     "static/js/453.95a3a031.chunk.js": "/serverless-price-tracker/static/js/453.95a3a031.chunk.js",
     "index.html": "/serverless-price-tracker/index.html",
-    "main.205ec973.css.map": "/serverless-price-tracker/static/css/main.205ec973.css.map",
-    "main.70732c3b.js.map": "/serverless-price-tracker/static/js/main.70732c3b.js.map",
+    "main.9233ea16.css.map": "/serverless-price-tracker/static/css/main.9233ea16.css.map",
+    "main.0fea8a17.js.map": "/serverless-price-tracker/static/js/main.0fea8a17.js.map",
     "453.95a3a031.chunk.js.map": "/serverless-price-tracker/static/js/453.95a3a031.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.205ec973.css",
-    "static/js/main.70732c3b.js"
+    "static/css/main.9233ea16.css",
+    "static/js/main.0fea8a17.js"
   ]
 }
